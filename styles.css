@@ -22,3 +22,13 @@ img{
 .message{
     padding-right: 15px;
 }
+.form-label{
+    float: left;
+}
+.footer{
+    background-color: rgb(246, 237, 237);
+    padding-top: 15px;
+}
+p{
+    font-size: small;
+}
