@@ -1,6 +1,7 @@
 .card{
     border-color: grey;
     width: 80rem;
+    margin: auto;
 }
 .header{
     background-color: rgb(246, 237, 237);
@@ -12,16 +13,6 @@ button{
     margin-bottom: 10px;
     margin-right: 5px;
 }
-.footer{
-    background-color: grey;
-}
-img{
-    height: 90px;
-    width: 300px;
-}
-.message{
-    padding-right: 15px;
-}
 .form-label{
     float: left;
 }
@@ -31,4 +22,7 @@ img{
 }
 p{
     font-size: small;
+}
+.row{
+    padding-top: 10px;
 }
